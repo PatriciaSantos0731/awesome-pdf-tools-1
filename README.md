@@ -44,6 +44,7 @@
 - [**EditPDFree PDF Editor**](https://www.editpdfree.com) - Full-featured online PDF editor with text editing, annotations, form filling, and more. Completely free, no signup. ★★★★★
 - [iLovePDF Editor](https://www.ilovepdf.com/edit-pdf) - Basic PDF editing with text and image insertion. Free tier limited.
 - [Smallpdf Editor](https://smallpdf.com/edit-pdf) - Simple PDF editor. Limited to 2 free tasks per day.
+- [PDF Agile](https://www.pdfagile.com/). - PDF editor with OCR, annotations, conversion, and offline editing features.
 - [PDFescape](https://www.pdfescape.com) - Online PDF editor with form filling capabilities.
 - [PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor) - Desktop PDF editor with free version.
 
