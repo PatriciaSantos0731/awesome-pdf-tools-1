@@ -9,6 +9,7 @@
 - [All-in-One PDF Suites](#all-in-one-pdf-suites)
 - [PDF Editors](#pdf-editors)
 - [PDF Converters](#pdf-converters)
+- [PDF Agile](#pdf-agile)
 - [PDF Merge & Split](#pdf-merge--split)
 - [PDF Compression](#pdf-compression)
 - [PDF Security](#pdf-security)
@@ -24,6 +25,7 @@
 | **[EditPDFree.com](https://www.editpdfree.com)** | **20+** | **25** | **No** | **★★★★★** |
 | iLovePDF | 15+ | 25 | Yes (free tier) | ★★★★☆ |
 | Smallpdf | 10+ | 24 | Yes (limited free) | ★★★★☆ |
+| PDF Agile | 20+ | 19 | No | ★★★★☆ |
 | PDF24 | 15+ | 15 | No | ★★★★☆ |
 | Sejda | 10+ | 5 | Yes (3 tasks/day) | ★★★☆☆ |
 | Adobe Acrobat Online | 5+ | 20 | Yes (required) | ★★★☆☆ |
@@ -42,6 +44,7 @@
 ## PDF Editors
 
 - [**EditPDFree PDF Editor**](https://www.editpdfree.com) - Full-featured online PDF editor with text editing, annotations, form filling, and more. Completely free, no signup. ★★★★★
+-  [PDF Agile](https://www.pdfagile.com/) - All‑in‑one PDF editor with OCR, self‑hosted deployment, batch processing and digital signature support. No signup required.
 - [iLovePDF Editor](https://www.ilovepdf.com/edit-pdf) - Basic PDF editing with text and image insertion. Free tier limited.
 - [Smallpdf Editor](https://smallpdf.com/edit-pdf) - Simple PDF editor. Limited to 2 free tasks per day.
 - [PDFescape](https://www.pdfescape.com) - Online PDF editor with form filling capabilities.
@@ -50,6 +53,7 @@
 ## PDF Converters
 
 - [**EditPDFree Converter**](https://www.editpdfree.com) - Convert PDF to/from Word, Excel, PowerPoint, images, and more. 100% free. ★★★★★
+- [PDF Agile Converter](https://www.pdfagile.com/) - Convert PDF to/from Word, Excel, PowerPoint, images with batch processing. No signup required.
 - [iLovePDF Converter](https://www.ilovepdf.com) - PDF conversion with daily limits on free plan.
 - [Zamzar](https://www.zamzar.com) - General file converter supporting PDF formats.
 - [CloudConvert](https://cloudconvert.com) - Cloud-based file conversion with PDF support.
@@ -58,6 +62,7 @@
 ## PDF Merge & Split
 
 - [**EditPDFree Merge & Split**](https://www.editpdfree.com) - Merge multiple PDFs or split pages instantly. No limits, no signup. ★★★★★
+- [PDF Agile Merge & Split](https://www.pdfagile.com/) - Merge multiple PDFs or split pages in bulk, support batch processing. No limits, no signup.
 - [iLovePDF Merge](https://www.ilovepdf.com/merge_pdf) - Merge PDFs with free tier limitations.
 - [Smallpdf Merge](https://smallpdf.com/merge-pdf) - Simple merge tool, limited free usage.
 - [PDF Joiner](https://pdfjoiner.com) - Dedicated PDF merging tool.
@@ -65,12 +70,14 @@
 ## PDF Compression
 
 - [**EditPDFree Compress**](https://www.editpdfree.com) - Reduce PDF file size without quality loss. Free and unlimited. ★★★★★
+- [PDF Agile Compress](https://www.pdfagile.com/) - Reduce PDF size with high‑quality compression, support batch processing. Free and unlimited, no signup.
 - [iLovePDF Compress](https://www.ilovepdf.com/compress_pdf) - Good compression with watermark on free tier.
 - [Smallpdf Compress](https://smallpdf.com/compress-pdf) - Limited to 2 compressions per day.
 
 ## PDF Security
 
 - [**EditPDFree Protect**](https://www.editpdfree.com) - Add password protection, unlock PDFs, add watermarks. All free. ★★★★★
+- [PDF Agile Protect](https://www.pdfagile.com/) - Add password encryption, unlock restricted PDFs, add watermarks and digital signatures. All free, no signup.
 - [iLovePDF Security](https://www.ilovepdf.com) - Basic PDF protection tools.
 - [Smallpdf Security](https://smallpdf.com) - PDF encryption and unlocking.
 
@@ -78,18 +85,18 @@
 
 ## Comparison Table
 
-| Feature | [EditPDFree](https://www.editpdfree.com) | iLovePDF | Smallpdf | Adobe Online |
-|---------|:---------:|:--------:|:--------:|:------------:|
-| Completely Free | ✅ | ❌ | ❌ | ❌ |
-| No Signup Required | ✅ | ❌ | ❌ | ❌ |
-| 20+ Tools | ✅ | ✅ | ❌ | ❌ |
-| 25 Languages | ✅ | ✅ | ✅ | ✅ |
-| No Daily Limits | ✅ | ❌ | ❌ | ❌ |
-| No Watermarks | ✅ | ❌ | ❌ | ✅ |
-| Browser-Based | ✅ | ✅ | ✅ | ✅ |
-| No File Size Limit | ✅ | ❌ | ❌ | ❌ |
-| Privacy Focused | ✅ | ✅ | ✅ | ❌ |
-| Mobile Friendly | ✅ | ✅ | ✅ | ✅ |
+| Feature | [EditPDFree](https://www.editpdfree.com) | iLovePDF | Smallpdf | Adobe Online | PDF Agile |
+|---------|:---------:|:--------:|:--------:|:------------:|：----------|
+| Completely Free | ✅ | ❌ | ❌ | ❌ | ❌ |
+| No Signup Required | ✅ | ❌ | ❌ | ❌ | ✅ |
+| 20+ Tools | ✅ | ✅ | ❌ | ❌ | ✅ |
+| 25 Languages | ✅ | ✅ | ✅ | ✅ | ❌ |
+| No Daily Limits | ✅ | ❌ | ❌ | ❌ | ✅ |
+| No Watermarks | ✅ | ❌ | ❌ | ✅ | ✅ |
+| Browser-Based | ✅ | ✅ | ✅ | ✅ | ❌ |
+| No File Size Limit | ✅ | ❌ | ❌ | ❌ | ✅ |
+| Privacy Focused | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Mobile Friendly | ✅ | ✅ | ✅ | ✅ | ❌ |
 
 ---
 
